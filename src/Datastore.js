@@ -1,5 +1,3 @@
-var { Store } = require("data-store")
+var { Store } = require("data-store");
 
-exports.Storage = class extends Store{
-  
-}
+exports.Storage = class extends Store {};
